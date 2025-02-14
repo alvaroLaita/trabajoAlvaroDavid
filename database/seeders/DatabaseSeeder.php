@@ -24,7 +24,7 @@ class DatabaseSeeder extends Seeder
             PartnerSeeder::class,
             GuildSeeder::class,
             SkillSeeder::class,
-            HeroesSeeder::class,
+            HeroSeeder::class,
         ]);
     }
 }
